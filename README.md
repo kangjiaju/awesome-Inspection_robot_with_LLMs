@@ -26,13 +26,9 @@
 
 ## Publications-and-Preprints
 
-
-### Autonomous Navigation Based on Large Language Models (sample)
-- [Paper Title](https://arxiv.org/pdf/xxx.pdf), Where; [theme]
-
-###############################################################################################
-
 ### 3D Scene Understanding Based on LLMs
+
+- [3DMIT: 3D Multi-Modal Instruction Tuning for Scene Understanding](https://ieeexplore.ieee.org/abstract/document/10645462), 2024 IEEE International Conference on Multimedia and Expo Workshops (ICMEW); [3D Scene Understanding]
 
 ### SLAM
 

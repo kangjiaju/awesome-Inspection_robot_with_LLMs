@@ -42,17 +42,15 @@
 
 - [LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image](https://arxiv.org/abs/2408.07422), 2024 arXiv; [3D Scene Understanding form 2D]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [OpenSU3D: Open World 3D Scene Understanding using Foundation Models](https://arxiv.org/abs/2407.14279), 2024 arXiv; [3D Scene Understanding]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation](https://semrob.github.io/docs/rss_semrob2024_cr_paper12.pdf), [semrob](https://semrob.github.io/); [Dataset]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [Dense Multimodal Alignment for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2407.09781), 2024 ECCV; [3D Scene Understanding]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding](https://ieeexplore.ieee.org/abstract/document/10610341), 2024 ICRA; [3D Scene Understanding]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-
+- [Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 ### SLAM
 

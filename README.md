@@ -28,7 +28,31 @@
 
 ### 3D Scene Understanding Based on LLMs
 
+<!-- - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area] -->
+
 - [3DMIT: 3D Multi-Modal Instruction Tuning for Scene Understanding](https://ieeexplore.ieee.org/abstract/document/10645462), 2024 IEEE International Conference on Multimedia and Expo Workshops (ICMEW); [3D Scene Understanding]
+
+- [SceneGPT: A Language Model for 3D Scene Understanding](https://arxiv.org/abs/2408.06926), 2024 arXiv; [3D Scene Understanding]
+
+- [Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning](https://arxiv.org/abs/2403.11401), 2024 arXiv; [3D Scene Understanding]
+
+- [Open World 3D Scene Understanding](https://mediatum.ub.tum.de/doc/1743803/3kki5bjo6qgqko16vco12dih2.Mohiuddin_OpenWorld3DSceneUnderstandingpdf_geschw%C3%A4rzt.pdf), the media and publications repository of the Technical University of Munich; [3D Scene Understanding]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+
 
 ### SLAM
 

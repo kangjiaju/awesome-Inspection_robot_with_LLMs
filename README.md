@@ -56,136 +56,32 @@
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 
 ### Intelligent Dialogue and Task Collaboration
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 
 ### Automated Defect Identification and Diagnosis
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 
 ### Knowledge-Driven Fault Prediction and Maintenance Recommendations
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 
 ### Learning-Based Autonomous Systems and Feedback Mechanisms
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
 
 ### Cloud and Edge Collaborative Computing
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
-
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
@@ -201,7 +97,8 @@
 
 
 ## Laboratories
-- [Neural Interfacing Lab @ Maastricht University](https://neuralinterfacinglab.github.io/)
+- [Institute of AI&Future Networks](https://zkgyy.bnu.edu.cn/yjjg/rgznywlwlyjywy/index.htm)
+
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:

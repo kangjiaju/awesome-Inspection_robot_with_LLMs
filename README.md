@@ -10,8 +10,7 @@
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - 3D Scene Understanding
-  - Autonomous Navigation Based on Large Language Models
+  - 3D Scene Understanding Based on LLMs
   - SLAM
   - Intelligent Dialogue and Task Collaboration
   - Automated Defect Identification and Diagnosis
@@ -29,13 +28,11 @@
 
 
 ### Autonomous Navigation Based on Large Language Models (sample)
-- [Paper Title](https://arxiv.org/pdf/xxx.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
+- [Paper Title](https://arxiv.org/pdf/xxx.pdf), Where; [theme]
 
 ###############################################################################################
 
-### 3D Scene Understanding
-
-### Autonomous Navigation Based on Large Language Models
+### 3D Scene Understanding Based on LLMs
 
 ### SLAM
 

@@ -27,11 +27,9 @@
 
 ## Publications-and-Preprints
 
-### 3D Scene Understanding
-- [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
 
-### Autonomous Navigation Based on Large Language Models
-- [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
+### Autonomous Navigation Based on Large Language Models (sample)
+- [Paper Title](https://arxiv.org/pdf/xxx.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
 
 ###############################################################################################
 
@@ -50,7 +48,6 @@
 ### Learning-Based Autonomous Systems and Feedback Mechanisms
 
 ### Cloud and Edge Collaborative Computing
-
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]

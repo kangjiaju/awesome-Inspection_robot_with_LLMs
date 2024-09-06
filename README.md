@@ -10,13 +10,16 @@
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - EEG :brain: + X
-  - ECG :anatomical_heart: + X
-  - EDA :sweat_drops: + X
-  - Eye Movement :eye: + X
-  - EOG :eye: + X
-  - EMG :muscle: + X
-  - Other :placard: + X
+  - Multimodal Data Fusion and Understanding
+  - Autonomous Navigation Based on Large Language Models
+  - Multimodal Semantic SLAM
+  - Intelligent Dialogue and Task Collaboration
+  - Automated Defect Identification and Diagnosis
+  - Knowledge-Driven Fault Prediction and Maintenance Recommendations
+  - Real-Time Voice and Visual Command Execution
+  - Learning-Based Autonomous Systems and Feedback Mechanisms
+  - Cloud and Edge Collaborative Computing
+  - Energy Management Optimization for Multimodal Large Language Models
 - [Datasets](#datasets)
 
 - [Laboratories](#laboratories)
@@ -26,11 +29,35 @@
 
 ## Publications-and-Preprints
 
-### EEG :brain: + X 
+### Multimodal Data Fusion and Understanding
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
 
-### Other :placard: + X
+### Autonomous Navigation Based on Large Language Models
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
+
+### Multimodal Semantic SLAM
+
+
+### Intelligent Dialogue and Task Collaboration
+
+
+### Automated Defect Identification and Diagnosis
+
+
+### Knowledge-Driven Fault Prediction and Maintenance Recommendations
+
+
+### Real-Time Voice and Visual Command Execution
+
+
+### Learning-Based Autonomous Systems and Feedback Mechanisms
+
+
+### Cloud and Edge Collaborative Computing
+
+
+### Energy Management Optimization for Multimodal Large Language Models
+
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
@@ -54,7 +81,7 @@ author = {Jiaju Kang},
 month = Sept,
 title = {{Inspection robot driven by multimodal large language model-related learning resource library}},
 url = {https://github.com/kangjiaju/awesome-Inspection_robot_with_LLMs},
-version = {2.0.4},
+version = {1.0.0},
 year = {2024}
 }
 ```

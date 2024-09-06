@@ -12,14 +12,12 @@
 - [Publications and Preprints](#publications-and-preprints)
   - 3D Scene Understanding
   - Autonomous Navigation Based on Large Language Models
-  - Multimodal Semantic SLAM
+  - SLAM
   - Intelligent Dialogue and Task Collaboration
   - Automated Defect Identification and Diagnosis
   - Knowledge-Driven Fault Prediction and Maintenance Recommendations
-  - Real-Time Voice and Visual Command Execution
   - Learning-Based Autonomous Systems and Feedback Mechanisms
   - Cloud and Edge Collaborative Computing
-  - Energy Management Optimization for Multimodal Large Language Models
 - [Datasets](#datasets)
 
 - [Laboratories](#laboratories)

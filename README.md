@@ -10,7 +10,7 @@
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - Multimodal Data Fusion and Understanding
+  - 3D Scene Understanding
   - Autonomous Navigation Based on Large Language Models
   - Multimodal Semantic SLAM
   - Intelligent Dialogue and Task Collaboration
@@ -29,7 +29,7 @@
 
 ## Publications-and-Preprints
 
-### Multimodal Data Fusion and Understanding
+### 3D Scene Understanding
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
 
 ### Autonomous Navigation Based on Large Language Models

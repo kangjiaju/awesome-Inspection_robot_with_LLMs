@@ -50,7 +50,10 @@
 
 - [Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding](https://ieeexplore.ieee.org/abstract/document/10610341), 2024 ICRA; [3D Scene Understanding]
 
-- [Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers](https://arxiv.org/abs/2408.08849), 2024 arXiv; [3D Scene Understanding]
+
+- [An Embodied Generalist Agent in 3D World](https://arxiv.org/abs/2311.12871), 2024 ICML; [3D Scene Understanding]
+
 
 ### SLAM
 
@@ -87,14 +90,11 @@
 
 
 ## Datasets
-- [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
-- [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html); [EEG, Eye Movement, Video]
-- [SEED-VIG](https://bcmi.sjtu.edu.cn/home/seed/seed-vig.html); [EEG, EOG]
-- [SEED-V](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html); [EEG, Eye Movement, Video]
-- [SEED-GER](https://bcmi.sjtu.edu.cn/home/seed/seed-GER.html); [EEG, Eye Movement, Video]
-- [SEED-FRA](https://bcmi.sjtu.edu.cn/home/seed/seed-FRA.html); [EEG, Eye Movement, Video]
-- [ZuCo 2.0](https://osf.io/2urht/); [EEG, Language, Eye Movement]
-
+- [Objaverse](https://objaverse.allenai.org/); [3D, 660k, object captioning]
+- [ScanNet](http://www.scan-net.org/); [3D, object referring, Video]
+- [3RScan](https://github.com/WaldJohannaU/3RScan); [3D, object referring/scene captioning/3D QA]
+- [Matterport3D](https://niessner.github.io/Matterport/); [3D, navigation]
+- [CLIPort](https://github.com/cliport/cliport); [3D, manipulation]
 
 ## Laboratories
 - [Institute of AI&Future Networks](https://zkgyy.bnu.edu.cn/yjjg/rgznywlwlyjywy/index.htm)

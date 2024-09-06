@@ -38,9 +38,9 @@
 
 - [Open World 3D Scene Understanding](https://mediatum.ub.tum.de/doc/1743803/3kki5bjo6qgqko16vco12dih2.Mohiuddin_OpenWorld3DSceneUnderstandingpdf_geschw%C3%A4rzt.pdf), the media and publications repository of the Technical University of Munich; [3D Scene Understanding]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning](https://arxiv.org/abs/2403.10107), 2024 arXiv; [3D Scene Understanding]
 
-- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+- [LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image](https://arxiv.org/abs/2408.07422), 2024 arXiv; [3D Scene Understanding form 2D]
 
 - [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
 
@@ -56,15 +56,141 @@
 
 ### SLAM
 
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+
 ### Intelligent Dialogue and Task Collaboration
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
 
 ### Automated Defect Identification and Diagnosis
 
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+
 ### Knowledge-Driven Fault Prediction and Maintenance Recommendations
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
 
 ### Learning-Based Autonomous Systems and Feedback Mechanisms
 
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+
 ### Cloud and Edge Collaborative Computing
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
+- [Paper Title](https://ieeexplore.ieee.org/abstract/document/10645462), Where; [area]
+
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]

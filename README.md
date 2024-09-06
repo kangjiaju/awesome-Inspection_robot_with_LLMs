@@ -33,28 +33,23 @@
 ### Autonomous Navigation Based on Large Language Models
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
 
-### Multimodal Semantic SLAM
+###############################################################################################
 
+### 3D Scene Understanding
+
+### Autonomous Navigation Based on Large Language Models
+
+### SLAM
 
 ### Intelligent Dialogue and Task Collaboration
 
-
 ### Automated Defect Identification and Diagnosis
-
 
 ### Knowledge-Driven Fault Prediction and Maintenance Recommendations
 
-
-### Real-Time Voice and Visual Command Execution
-
-
 ### Learning-Based Autonomous Systems and Feedback Mechanisms
 
-
 ### Cloud and Edge Collaborative Computing
-
-
-### Energy Management Optimization for Multimodal Large Language Models
 
 
 ## Datasets
